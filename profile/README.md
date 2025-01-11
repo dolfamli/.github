@@ -1,4 +1,4 @@
-# Maryland Department of Labor (MDOL)
+# Maryland Department of Labor
 
 ## Family and Medical Leave Insurance (FAMLI)
 
